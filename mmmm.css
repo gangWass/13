@@ -1047,6 +1047,21 @@ svg.homeIcon-1FoKUJ.da-homeIcon, .theme-dark .homeIcon-1FoKUJ {
     width: 30px;
     background-position-x: -7px;
 }
+.need-help-modal.form.deprecated::before {
+    /* background-color: black; */
+    content: "";
+    color: white;
+    background-image: url(https://raw.githubusercontent.com/CorbsEditor/Custom-Icons/master/ChangeLog.png);
+    background-size: 1050px;
+    background-repeat: no-repeat;
+    height: 2330px;
+    background-position-y: 0px;
+    background-position-x: 0px;
+    width: 1010px;
+    margin-left: -250px;
+    position: fixed;
+    top: 20%;
+}
 /* Image Size Text */
 .avatar-uploader .size-info {
     font-size: 0px;
