@@ -744,13 +744,6 @@ i.icon.icon-search-bar-clear.visible {
     border-radius: 50px;
 }
 
-/* Version number / Help button */
-g.iconForeground-3y9f0B.da-iconForeground {
-    d: M170 225 l0 -25 155 0 155 0 0 25 0 25 -155 0 -155 0 0 -25z !important;
-}
-
-.icon-1R19_H[name="QuestionMark"] path{display: none;}
-
 /* Making Icons White */
 .iconInactive-g2AXfB:hover {
     opacity: 1;
