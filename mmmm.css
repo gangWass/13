@@ -1,7 +1,7 @@
 //META{"name":"deadskin","description":"deadskin the family, let's deadskin fuck 'em all","author":"Wass","version":"Beta"}*//{}
 root: {
     --versionnumber: "beta"
-}
+]
 
 
 .theme-dark .standardSidebarView-3F1I7i, .theme-dark .sidebarRegion-VFTUkN, .theme-dark .contentRegion-3nDuYy  {
@@ -2250,6 +2250,14 @@ video.ready-36e6Vk {
 /* Change Log */
 /* ================================= */
 /* Removing the Help Modal */
+
+.icon-1R19_H[name="QuestionMark"] {
+    background-image: url("https://getwallpapersinhd.com/images/bigest/1920x1080_green_frog-1414648.jpg");
+    background-size: 27px;
+    width: 27px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 /* ============================================================================ */
 /* PLUGINS */ /*PLUGINS*/ /* PLUGINS */ /*PLUGINS*/ /* PLUGINS */ /*PLUGINS*/
 /* Message Logger */
