@@ -1047,11 +1047,28 @@ svg.homeIcon-1FoKUJ.da-homeIcon, .theme-dark .homeIcon-1FoKUJ {
     width: 30px;
     background-position-x: -7px;
 }
+.need-help-modal.form.deprecated .header, .form-deprecated .form-inner, .form.deprecated .form-inner, .need-help-modal.form.deprecated .footer {
+    background-color: transparent !important;
+    border-top: 0px solid transparent;
+    color: transparent;
+}
+.need-help-modal.form.deprecated ul li, .need-help-modal.form.deprecated a, .need-help-modal.form.deprecated .header h1 {
+    font-size: 0px;
+}
+.need-help-modal.form.deprecated .header input[type=text] {
+    background-color: rgba(255, 255, 255, 0);
+    box-shadow: 0 2px 1px rgba(78, 93, 148, 0);
+    color: #000;
+    font-size: 0px;
+}
+.form-deprecated .control-group input[type=email], .form-deprecated .control-group input[type=number], .form-deprecated .control-group input[type=password], .form-deprecated .control-group input[type=text], .form-deprecated .control-group textarea, .form.deprecated .control-group input[type=email], .form.deprecated .control-group input[type=number], .form.deprecated .control-group input[type=password], .form.deprecated .control-group input[type=text], .form.deprecated .control-group textarea {
+    border-bottom: 0px solid transparent;
+}
 .need-help-modal.form.deprecated::before {
     /* background-color: black; */
     content: "";
     color: white;
-    background-image: url(https://getwallpapersinhd.com/images/bigest/1920x1080_green_frog-1414648.jpg);
+    background-image: url(https://raw.githubusercontent.com/CorbsEditor/Custom-Icons/master/ChangeLog.png);
     background-size: 1050px;
     background-repeat: no-repeat;
     height: 2330px;
